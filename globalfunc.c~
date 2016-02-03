@@ -1,0 +1,19 @@
+// function func
+int func();
+
+// function message
+int message();
+
+int main() {
+	// function call
+	int i = func();
+}
+
+// function definition
+int func() {
+	return 0;
+}
+
+int message() {
+	return 0;
+}
